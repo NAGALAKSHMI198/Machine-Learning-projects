@@ -16,7 +16,7 @@ This repository contains hands-on machine learning projects built to strengthen 
 - 📉 Support Vector Machine (SVM)
 - 📧 Naive Bayes
 - 🎯 K-Means Clustering
-- 🧠 More projects will be added regularly.
+
 
 ## 🛠️ Technologies Used
 
